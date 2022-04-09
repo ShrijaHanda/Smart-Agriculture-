@@ -1,2 +1,4 @@
 # Smart-Agriculture-
 An IOT project that brings in Smart Irrigation, Temperature/Humidity Detection  and Intruder Detection.
+
+In this project, we make use of several IOT constructs to achieve our end goals- automation/ smart agriculture. We make use of several sensors and use their outputs for our varying purposes. The proposed plan has two objectives: the first is for gardening and the other, for agriculture. The major part of the project is the Arduino Uno board. Whenever there is enough water in the field, the water will not pump into the field. Whenever the soil moisture level drops, the water will be pumped into the field until the required amount of moisture is needed. The DHT11 sensor measures the temperature and humidity of the field. So the sensor values ​​are continuously monitored and readings are displayed on the farmer's cell phone via the nodeMCU wifi module that provides IoT features in the system.
